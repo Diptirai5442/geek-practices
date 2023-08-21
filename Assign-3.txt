@@ -1,0 +1,77 @@
+https://readme.so/editor ------DIRECT LINK OF README.SO EDITOR
+
+
+--->>>> MY ALL CODE ARE MENTIONED IN BELOW :-
+
+# Welcome to readme-md-generator! 👋
+
+
+## 
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## 
+CLI that generates beautiful README.md files.
+
+
+## 
+[![portfolio](https://img.shields.io/badge/my_Homepage-000?style=for-the-badge&logo=ko-fi&logoColor=)](https://katherineoelsner.com/)
+
+
+
+## Prerequisites
+
+ - npm >=5.50
+ - node >=9.30
+
+
+## Install
+```bash
+  npm install my-project
+
+```
+    
+## Usage
+
+```javascript
+nmp run start
+```
+
+
+## Run Test
+```bash
+  npm run test
+```
+
+
+## Authors
+Frank Abgrall
+
+- Github [@Diptirai](https://github.com/Diptirai5442/DiptiRai)
+  
+- LinkedIn [@dipti-rai](https://www.linkedin.com/in/dipti-rai-05206a17a/)
+
+
+## Contributing
+
+Contributions, issues and features requests are welcome! Feel free to check`issue page`.
+
+
+## Show Your Support
+
+Give a * if this project helped you! 
+
+
+## License
+
+Copyright @2019 Frank Abgrall.
+
+This project is[MIT](https://choosealicense.com/licenses/mit/) Licensed.this.
+
+
+## 
+This README was generated with love by readme-md-generator
